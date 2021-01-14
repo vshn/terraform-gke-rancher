@@ -1,4 +1,4 @@
-FROM hashicorp/terraform:0.14.2
+FROM hashicorp/terraform:0.14.4
 
 RUN apk add --no-cache \
   bash \
